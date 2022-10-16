@@ -2,7 +2,7 @@
 /**
  * main - print out sizes of data types in c
  *
- * Return: 0 if no errors, return non zero if errors
+ * Return: 0 if no errors
 */
 int main(void)
 {
