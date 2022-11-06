@@ -1,1 +1,1 @@
-A written readme file about static libraries
+A written readme file about static libraris
