@@ -1,1 +1,1 @@
-A project on Singly linked lists project on Singly linked lists
+0x12-singly_linked_lists readme

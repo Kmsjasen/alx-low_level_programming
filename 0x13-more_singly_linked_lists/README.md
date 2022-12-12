@@ -1,4 +1,1 @@
-0x13. C - More singly linked lists on C
-
-
-
+0x13-more_singly_linked_lists readme
